@@ -40,5 +40,15 @@ Upload the contents to your webserver.
 index.html must be in the main (root) folder of your webserver.
 Do not change the name of the template folders or files unless you know
 what you are doing and are changing the names in HTML files too.
-For webhosting, you can go with https://templateflip.com/go/hosting for easy FTP file uploads.
 
+-------------------------------------------------------------------------------------------------------------------------------
+
+
+
+[![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://akashdip2001.github.io/linktree/)
+[![Tweet](https://img.shields.io/twitter/url/https/github.com/jonsn0w/hyde.svg?style=social)](https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ)
+
+
+# National Award 2012
+
+https://youtu.be/ysBF9EfvWkk?t=428
