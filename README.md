@@ -57,8 +57,7 @@ what you are doing and are changing the names in HTML files too.
 -------------------------------------------------------------------------------------------------------------------------------
 
 ![QR jpg](https://user-images.githubusercontent.com/81384987/192723031-9c6da2d6-553f-4b66-8e88-e81cd85610b3.jpg)
-![Screenshot (13)](https://user-images.githubusercontent.com/81384987/192738234-b6bce3ef-a57d-46ef-93dd-e9dc23114ccf.png)
-
+![Screenshot (11)-min](https://user-images.githubusercontent.com/81384987/192739510-b6a412cf-b820-44d6-9657-db61aed974e7.png)
 
 [![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://akashdip2001.github.io/linktree/)
 [![Tweet](https://img.shields.io/twitter/url/https/github.com/jonsn0w/hyde.svg?style=social)](https://www.youtube.com/channel/UCxvmp634YDc41xCWOdvWqoQ)
