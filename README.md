@@ -122,3 +122,24 @@ https://youtu.be/ysBF9EfvWkk?t=428
     </div>
   </div>
 </div>
+
+
+//Education
+
+<div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-education-header">
+            <p>2025 - 20..</p>
+            <div class="h5">Master's Degree</div>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5">Master of ***</div>
+            <p class="category">University of ***</p>
+            <p>***</p>
+          </div>
+        </div>
+      </div>
+    </div>
