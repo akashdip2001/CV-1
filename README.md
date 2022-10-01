@@ -124,7 +124,7 @@ https://youtu.be/ysBF9EfvWkk?t=428
 </div>
 
 
-//Education
+    //Education
 
 <div class="card">
       <div class="row">
